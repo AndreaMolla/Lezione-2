@@ -17,7 +17,7 @@ IP Gatewat convenzionale 1.0.0.1
 Host 1.6.5
 Rete 128.0.0.0
 Broadcast 128.0.0.0 - 128.15.255.255 
-Possibili connessioni 15x256x256=983040-2=983038
+Possibili connessioni 15x256x256=1048576-2=1048574
 IP Gatewat convenzionale 128.0.0.1
 
 
